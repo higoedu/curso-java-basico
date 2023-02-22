@@ -1,4 +1,4 @@
-package aula05;
+package aula05.labs;
 /*
 nome da classe é o memo no do arquivo.java
 HellowWorld é camel case, pois tem mais de uma palavra junta
